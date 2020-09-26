@@ -1,2 +1,2 @@
 
-print(King)
+print("King")
